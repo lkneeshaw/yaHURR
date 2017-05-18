@@ -34111,6 +34111,10 @@ html.ios {
 *******************************/
 /* line 4, /Users/lkneeshaw/Downloads/yaHURR/css/styles.scss */
 body {
-  background: firebrick; }
+  background: #eee; }
+
+/* line 8, /Users/lkneeshaw/Downloads/yaHURR/css/styles.scss */
+#students img {
+  max-width: 300px; }
 
 /*# sourceMappingURL=styles.css.map */
